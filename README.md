@@ -4,4 +4,4 @@
 
 # pip install -r requirement.txt
 
-![Alt text](image_detected.jpg?raw=true "Title")
+![Detected Image](image_detected.jpeg?raw=true "Title")
